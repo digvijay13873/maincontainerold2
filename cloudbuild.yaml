@@ -15,6 +15,6 @@
    - '--image'
    - 'gcr.io/maincontainerold/flutter-docker:$COMMIT_SHA'
    - '--region'
-   - 'europe-west1'
+   - 'us-east4'
  images:
  - 'gcr.io/maincontainerold/flutter-docker:$COMMIT_SHA'
