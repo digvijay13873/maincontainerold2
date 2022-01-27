@@ -11,7 +11,7 @@
    args:
    - 'run'
    - 'deploy'
-   - 'flutter-docker'
+   - 'airflow-docker'
    - '--image'
    - 'gcr.io/maincontainerold/airflow-docker:$COMMIT_SHA'
    - '--region'
